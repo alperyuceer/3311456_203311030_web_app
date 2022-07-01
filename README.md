@@ -1,2 +1,1 @@
-# 3311456_203311030_web_app
-Alper Yüceer Web
+Flutter ile geliştirmiş olduğum Komik Replikler projemin web app versiyonudur.
